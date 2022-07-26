@@ -1,0 +1,10 @@
+.search{
+    background-color: #151515;
+    display: flex;
+    justify-content: center;
+    margin: 20%;
+}
+button{
+    background-color:cornflowerblue ;
+border: none;
+}

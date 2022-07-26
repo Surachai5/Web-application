@@ -1,0 +1,3 @@
+<?php include 'connext.php';
+Print_r($_POST)
+
